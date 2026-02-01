@@ -1,8 +1,8 @@
 global main
 main:
-    mov rax, 68 65 6c 6c 6f 20 77 6f 72 6c 64 0a
+    mov rax, 68 65 6c 6c 6f 20 77 6f
     push rax
-    mov rax, 0x6c6c6568
+    mov rax, 72 6c 64 0a
     push rax
 
     mov rax, 1
